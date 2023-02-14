@@ -1,0 +1,2 @@
+set(the_description "pix lower algorithm")
+ocv_define_module(pix opencv_core WRAP java objc python)
